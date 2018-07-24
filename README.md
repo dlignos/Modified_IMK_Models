@@ -15,3 +15,5 @@ Lignos, D. G., and Krawinkler, H. (2011). "Deterioration modeling of steel compo
 
 Lignos, D. G., and Krawinkler, H. (2013). "Development and utilization of structural component databases for performance-based earthquake engineering." Journal of Structural Engineering, 139(8), 1382-1394, Doi: 10.1061/(ASCE)ST.1943-541X.0000646.
 
+Link to structural performance databases for input model parameter computations based on the Lignos and Krawinkler papers:
+http://resslabtools.epfl.ch/component/
