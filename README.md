@@ -8,6 +8,7 @@ Contains DLL executables and associated documentation for the modified Ibarra-Me
 -IMKPinching: Typically used for simulating the behavior of any structural component that is characterized by pinching
 
 References:
+
 Ibarra, L. F., Medina, R. A., and Krawinkler, H. (2005). "Hysteretic models that incorporate strength and stiffness deterioration." Earthquake Engineering & Structural Dynamics, 34(12), 1489-1511, Doi: 10.1002/eqe.495.
 
 Lignos, D. G., and Krawinkler, H. (2011). "Deterioration modeling of steel components in support of collapse prediction of steel moment frames under earthquake loading." Journal of Structural Engineering, 137(11), 1291-1302, Doi: 10.1061/(ASCE)ST.1943-541X.0000376.
